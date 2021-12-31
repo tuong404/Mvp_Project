@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "61b1cbcea33addc6e47a3079"
+  },
+  "name": "Binance",
+  "img": "https://bin.bnbstatic.com/static/images/common/favicon.ico",
+  "createAt": {
+    "$date": "2021-12-08T17:00:00Z"
+  },
+  "status": [
+    "Up",
+    "Down"
+  ],
+  "updateAt": {
+    "$date": "2000-12-31T17:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b1f802e1921a8c5ef3bf8c"
+  },
+  "name": "Coinbase",
+  "img": "https://assets.coinbase.com/assets/favicon-32.edb331948b196fde10cb4d6a4e894bb8.png",
+  "createAt": {
+    "$date": "2021-12-08T17:00:00Z"
+  },
+  "status": [
+    "Up",
+    "Down"
+  ],
+  "updateAt": {
+    "$date": "2000-12-31T17:00:00Z"
+  }
+}]
